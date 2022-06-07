@@ -16,3 +16,5 @@ edit or delete posts, there is also an admin panel on the site.
 
 ---
 
+![Project Image](https://github.com/konductor000/firstSite/blob/main/images/pic1.PNG)
+
